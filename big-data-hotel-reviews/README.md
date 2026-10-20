@@ -1,7 +1,6 @@
 # Hotel review sentiment analysis (Big Data)
 
 Course project for **Management and Visualisation of Large-Scale Data** (Big Data), MSc in Artificial Intelligence & Visual Computing, University of West Attica, June 2023.
-Team: **Maria Melina Dolapsaki** and **Vasiliki Manika**.
 
 Online platforms rate hotels by numeric scores and ignore what reviewers actually write. This project uses NLP and sentiment analysis on the text of hotel reviews to (a) detect bad reviews automatically, (b) find reviews that match a specific complaint, and (c) argue for a rating that also reflects review sentiment.
 
